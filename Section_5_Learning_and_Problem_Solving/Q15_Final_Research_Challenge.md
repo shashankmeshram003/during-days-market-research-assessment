@@ -60,12 +60,16 @@ Catch.com.au is excluded, as Wesfarmers has wound it down. I’d also set up one
 
 
 **4**. **How I would research competitors**
-For the lead product, I’d identify the 4-5 main sellers, a mix of large retailers and marketplace sellers. For each competitor I’d record:
+For the lead product, I’d identify the 4-5 main sellers, a mix of large retailers and marketplace sellers. For each competitor I’d record
 
 - Product name, URL, price, any discount
+
 - Shipping cost and delivery time
+
 - Ratings and review count (a demand signal)
+
 - Seller type (retailer vs. third-party) and stock status
+
 - What they do well and where customer reviews show weaknesses
 
 Reading the one- and two-star reviews is especially valuable, since that’s where unmet needs and differentiation ideas appear.
@@ -73,10 +77,15 @@ Reading the one- and two-star reviews is especially valuable, since that’s whe
 **5**. **How I would compare prices**
 I’d use the principle from Q10: compare total landed price, not headline price.
 
+
 - Same product, same specification, same condition
+
 - Same delivery postcode, with shipping included
+
 - Regular vs. sale price recorded separately, with only deals available to normal customers counted
+
 - All prices collected in the same session, with the date recorded
+
 - Price history checked on PriceSpy to see whether a “sale” is real
 
 Output: the lowest, average, and highest market price (=MIN, =AVERAGE, =MAX), and the “typical” range where most competitors sit. That range anchors my suggested selling price.

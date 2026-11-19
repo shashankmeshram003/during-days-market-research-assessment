@@ -22,7 +22,7 @@
 
 I’d choose the category before choosing products, using clear criteria, so the decision is principled and not random.
 
-**Criterion**               **What I’m looking for**
+**Criterion**        /       **What I’m looking for**
 
 1. Fit with During Days	:  Home, furniture, garden and storage, where the business already has knowledge.
 2. Market growth	    :      Rising or stable demand (Google Trends, Australia Post and ABS data).
@@ -36,7 +36,7 @@ I’d list 4-5 candidate categories (for example storage and organisation, outdo
 
 I’d use a mix of source types so no single bias dominates:
 
-**Purpose**	                **Sources**
+**Purpose**	        /        **Sources**
 
 1. Demand and trends	     : Google Trends (Australia), Amazon Australia Best Sellers, eBay Australia sold listings.
 2. Market size and growth	 : Australia Post eCommerce Report, ABS retail trade data.
@@ -94,7 +94,7 @@ Output: the lowest, average, and highest market price (=MIN, =AVERAGE, =MAX), an
 
 No single number gives demand, so I’d triangulate with several signals:
 
-**Signal**                               **What it tells me**
+**Signal**                     /          **What it tells me**
 
 Google Trends (Australia, 12 months)  : 	Direction and seasonality of interest.
 Marketplace best-seller ranks	      :     Current sales momentum.
@@ -107,7 +107,7 @@ Result: a rating of High, Medium or Low demand with the evidence behind it. I’
 
 **7**. **How I would assess competition**
 
-**Factor**                                 **Question** 
+**Factor**                       /          **Question** 
 
 Number of sellers	                  : How crowded is it?
 Market concentration	              : Is one big player dominant?
@@ -132,7 +132,7 @@ Since the real cost isn’t confirmed, I’d flag it as the biggest assumption a
 
 **9**. **What data I would collect**
 
-**Category**	              **Data points**
+**Category**	      /        **Data points**
 
 Product	             : Name, category, specs, variants, supplier or source.
 Prices	             : Retail price, sale price, shipping, total landed price, date checked.

@@ -18,7 +18,7 @@
 
 **My Approach, Step by Step**
 
-1. **How I would select the category**
+**1**. **How I would select the category**
 I’d choose the category before choosing products, using clear criteria, so the decision is principled and not random.
 
 **Criterion**               **What I’m looking for**
@@ -31,7 +31,7 @@ I’d choose the category before choosing products, using clear criteria, so the
 
 I’d list 4-5 candidate categories (for example storage and organisation, outdoor living, home office, pet furniture), score each 1-5 on the criteria above, and pick the highest total. Seasonality matters too: it’s currently November, heading into an Australian summer, so I’d check whether outdoor categories are peaking or about to fade.
 
-2. **Where I would research**
+**2**. **Where I would research**
 
 I’d use a mix of source types so no single bias dominates:
 
@@ -45,7 +45,7 @@ I’d use a mix of source types so no single bias dominates:
 
 Catch.com.au is excluded, as Wesfarmers has wound it down. I’d also set up one tracking sheet immediately and log every source and date as I go.
 
-3. **How I would identify potential products**
+**3**. **How I would identify potential products**
 
 1. Scan best-seller and “new arrivals” pages in the chosen category on the main marketplaces and retailers.
 
@@ -69,7 +69,7 @@ For the lead product, I’d identify the 4-5 main sellers, a mix of large retail
 
 Reading the one- and two-star reviews is especially valuable, since that’s where unmet needs and differentiation ideas appear.
 
-5. **How I would compare prices**
+**5**. **How I would compare prices**
 I’d use the principle from Q10: compare total landed price, not headline price.
 
 - Same product, same specification, same condition
@@ -80,7 +80,7 @@ I’d use the principle from Q10: compare total landed price, not headline price
 
 Output: the lowest, average, and highest market price (=MIN, =AVERAGE, =MAX), and the “typical” range where most competitors sit. That range anchors my suggested selling price.
 
-6. **How I would estimate demand**
+**6**. **How I would estimate demand**
 
 No single number gives demand, so I’d triangulate with several signals:
 
@@ -94,7 +94,7 @@ Category growth (Australia Post, ABS) : Whether the wider market is expanding
 
 Result: a rating of High, Medium or Low demand with the evidence behind it. I’d be clear that this is an estimate, not actual sales. 
 
-7. **How I would assess competition**
+**7**. **How I would assess competition**
 
 **Factor**                                 **Question** 
 Number of sellers	                  : How crowded is it?
@@ -107,7 +107,7 @@ Result: High, Medium or Low competition, with a short explanation. A good opport
 
 
 
-8. **How I would assess profitability**
+**8**. **How I would assess profitability**
 
 Gross profit      =  Selling price − Product cost
 Net profit        =  Gross profit − (Payment fee + Shipping + Marketing + Returns allowance)
@@ -118,7 +118,7 @@ Illustrative example (hypothetical numbers): if a product costs $60, sells for $
 
 Since the real cost isn’t confirmed, I’d flag it as the biggest assumption and verify it with supplier quotes before launch.
 
-9. **What data I would collect**
+**9**. **What data I would collect**
 
 **Category**	              **Data points**
 Product	             : Name, category, specs, variants, supplier or source
@@ -131,7 +131,7 @@ Sources       	     : Every URL with the date accessed
 
 All of it goes into one tracking sheet, and every claim in my recommendation links back to a source.
 
-10. **How I would present my final recommendation**
+**10**. **How I would present my final recommendation**
 
 1. Recommendation: the product, in one line, with a clear Go, Conditional Go or No-go
 2. Why: 3 bullets (demand, competition gap, profit)

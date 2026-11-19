@@ -58,7 +58,7 @@ Catch.com.au is excluded, as Wesfarmers has wound it down. I’d also set up one
 5. Score the survivors on demand, competition gap, margin potential and practicality, then pick one lead product, with one backup.
 
 
-4. **How I would research competitors**
+**4**. **How I would research competitors**
 For the lead product, I’d identify the 4-5 main sellers, a mix of large retailers and marketplace sellers. For each competitor I’d record:
 
 - Product name, URL, price, any discount

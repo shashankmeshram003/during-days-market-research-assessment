@@ -21,12 +21,12 @@ during-days-market-research-assessment/
 │   ├── Q7_Research_Challenge.md
 │   ├── Q8_Data_Investigation.xlsx
 │   ├── Q9_Find_the_Problem.xlsx
-│   └── Q_10_Research_Accuracy.md
+│   └── Q10_Research_Accuracy.md
 │
 ├── Section_4_Communication_and_Business_Thinking/
 │   ├── Q11_Explain_Your_Finding.md
-│   ├── Q_12_Prioritisation.md
-│   └── Q_13_Missing Information.md
+│   ├── Q12_Prioritisation.md
+│   └── Q13_Missing Information.md
 │
 └── Section_5_Learning_and_Problem_Solving/
     ├── Q14_You_Don't_Know_the_Tool.md

@@ -24,11 +24,11 @@ I’d choose the category before choosing products, using clear criteria, so the
 
 **Criterion**               **What I’m looking for**
 
-1. Fit with During Days	:  Home, furniture, garden and storage, where the business already has knowledge
-2. Market growth	    :      Rising or stable demand (Google Trends, Australia Post and ABS data)
-3. Margin potential	    :  Enough gap between sourcing cost and typical retail price
-4. Practicality	        :  Not too fragile, heavy or regulated; manageable shipping and returns
-5. Competition gap	    :      Not completely dominated by one giant retailer
+1. Fit with During Days	:  Home, furniture, garden and storage, where the business already has knowledge.
+2. Market growth	    :      Rising or stable demand (Google Trends, Australia Post and ABS data).
+3. Margin potential	    :  Enough gap between sourcing cost and typical retail price.
+4. Practicality	        :  Not too fragile, heavy or regulated; manageable shipping and returns.
+5. Competition gap	    :      Not completely dominated by one giant retailer.
 
 I’d list 4-5 candidate categories (for example storage and organisation, outdoor living, home office, pet furniture), score each 1-5 on the criteria above, and pick the highest total. Seasonality matters too: it’s currently November, heading into an Australian summer, so I’d check whether outdoor categories are peaking or about to fade.
 
@@ -38,11 +38,11 @@ I’d use a mix of source types so no single bias dominates:
 
 **Purpose**	                **Sources**
 
-1. Demand and trends	     : Google Trends (Australia), Amazon Australia Best Sellers, eBay Australia sold listings
-2. Market size and growth	 : Australia Post eCommerce Report, ABS retail trade data
-3. Competitors and prices	 : Kmart, Big W, Bunnings, Temple & Webster, Kogan, PriceSpy Australia
-4. Customer voice	         : Product reviews, Reddit (e.g. r/australia), Facebook groups, Gumtree
-5. Sourcing cost	         : Supplier marketplaces and quotes (an estimate only until verified)
+1. Demand and trends	     : Google Trends (Australia), Amazon Australia Best Sellers, eBay Australia sold listings.
+2. Market size and growth	 : Australia Post eCommerce Report, ABS retail trade data.
+3. Competitors and prices	 : Kmart, Big W, Bunnings, Temple & Webster, Kogan, PriceSpy Australia.
+4. Customer voice	         : Product reviews, Reddit (e.g. r/australia), Facebook groups, Gumtree.
+5. Sourcing cost	         : Supplier marketplaces and quotes (an estimate only until verified).
 
 Catch.com.au is excluded, as Wesfarmers has wound it down. I’d also set up one tracking sheet immediately and log every source and date as I go.
 
@@ -96,11 +96,11 @@ No single number gives demand, so I’d triangulate with several signals:
 
 **Signal**                               **What it tells me**
 
-Google Trends (Australia, 12 months)  : 	Direction and seasonality of interest
-Marketplace best-seller ranks	      :     Current sales momentum
-Review counts and review growth	      : Real purchase volume (a proxy, since most buyers don’t review)
-Number of sold listings on eBay	      : Actual transaction activity
-Category growth (Australia Post, ABS) : Whether the wider market is expanding
+Google Trends (Australia, 12 months)  : 	Direction and seasonality of interest.
+Marketplace best-seller ranks	      :     Current sales momentum.
+Review counts and review growth	      : Real purchase volume (a proxy, since most buyers don’t review).
+Number of sold listings on eBay	      : Actual transaction activity.
+Category growth (Australia Post, ABS) : Whether the wider market is expanding.
 
 
 Result: a rating of High, Medium or Low demand with the evidence behind it. I’d be clear that this is an estimate, not actual sales. 
@@ -121,10 +121,10 @@ Result: High, Medium or Low competition, with a short explanation. A good opport
 
 **8**. **How I would assess profitability**
 
-Gross profit      =  Selling price − Product cost
-Net profit        =  Gross profit − (Payment fee + Shipping + Marketing + Returns allowance)
-Net margin        =  Net profit ÷ Selling price
-Break-even price  = (Cost + Shipping + Marketing) ÷ (1 − payment fee %) 
+Gross profit      =  Selling price − Product cost.
+Net profit        =  Gross profit − (Payment fee + Shipping + Marketing + Returns allowance).
+Net margin        =  Net profit ÷ Selling price.
+Break-even price  = (Cost + Shipping + Marketing) ÷ (1 − payment fee %).
 
 Illustrative example (hypothetical numbers): if a product costs $60, sells for $119, with a 3% payment fee ($3.57), $8 shipping and $10 marketing, then net profit = 119 − 60 − 21.57 = $37.43, a 31.5% net margin. I’d run low, base and high scenarios (e.g. cost +10%, price −10%) to show how sensitive the result is, and set a minimum acceptable net margin (for example 15-20%) as the go or no-go threshold.
 
@@ -134,13 +134,13 @@ Since the real cost isn’t confirmed, I’d flag it as the biggest assumption a
 
 **Category**	              **Data points**
 
-Product	             : Name, category, specs, variants, supplier or source
-Prices	             : Retail price, sale price, shipping, total landed price, date checked
-Competitors	         : Seller, URL, rating, review count, stock, delivery time
-Demand	             : Google Trends link or screenshot, best-seller rank, review volume, sold listings
-Costs	             : Estimated supplier cost, shipping, payment fee, marketing, returns allowance
-Risks	             : Seasonality, compliance, trademark, fragility, return rate
-Sources       	     : Every URL with the date accessed
+Product	             : Name, category, specs, variants, supplier or source.
+Prices	             : Retail price, sale price, shipping, total landed price, date checked.
+Competitors	         : Seller, URL, rating, review count, stock, delivery time.
+Demand	             : Google Trends link or screenshot, best-seller rank, review volume, sold listings.
+Costs	             : Estimated supplier cost, shipping, payment fee, marketing, returns allowance.
+Risks	             : Seasonality, compliance, trademark, fragility, return rate.
+Sources       	     : Every URL with the date accessed.
 
 All of it goes into one tracking sheet, and every claim in my recommendation links back to a source.
 

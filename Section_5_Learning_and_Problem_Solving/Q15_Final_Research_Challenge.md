@@ -19,6 +19,7 @@
 **My Approach, Step by Step**
 
 **1**. **How I would select the category**
+
 I’d choose the category before choosing products, using clear criteria, so the decision is principled and not random.
 
 **Criterion**               **What I’m looking for**
